@@ -1,2 +1,2 @@
 # Expense-Tracker-
-A platform where we can easily track our expenditure and it shows balance and income category and it allows us to add transactions with description where it displays a transaction list & if needed we can remove that particular transaction.
+A clean, intuitive tool for tracking income and expenses, with real-time balance updates, categorized transactions, and editable history. Built to simplify financial management through seamless user interaction.
